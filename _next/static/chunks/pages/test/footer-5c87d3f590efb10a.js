@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[882],{2708:(_,e,n)=>{"use strict";n.r(e),n.d(e,{default:()=>r});var t=n(7876),u=n(9504);function r(){return(0,t.jsx)(u.A,{})}},5020:(_,e,n)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/test/footer",function(){return n(2708)}])}},_=>{var e=e=>_(_.s=e);_.O(0,[504,636,593,792],()=>e(5020)),_N_E=_.O()}]);
